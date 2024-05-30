@@ -67,11 +67,7 @@ export const handler: Handler = async (event, context) => {
     .attr("height", height);
 
   let group = svg.append("g")
-    .attr("transform","translate(1950,570)")
-    .attr("transform", "scale(5 5)")
-    .atrr("transform", "scale(-1,1)")
-    .attr("transform", "rotate(-90)")
-
+    .attr("transform","translate(1950,570) scale(5 5) scale(-1,1) rotate(-90)")
   group.selectAll("path")
     .data(paths)
     .enter()
