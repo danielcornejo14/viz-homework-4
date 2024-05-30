@@ -9,7 +9,7 @@ global.document = document;
 
 export const handler: Handler = async (event, context) => {
 
-  let svgCoordinates = [];
+  let svgCoordinates: any = [];
   const width = 800;
   const height = 300;
 
@@ -19,11 +19,10 @@ export const handler: Handler = async (event, context) => {
     return [x, y];
   }
 
-  const getMapData = () => {
-    fetch('data/usa.txt')
-      .then(response => response.text())
-      .then(text => {
-        const lines = text.split('\n');
+  async function getMapData(){
+    let response = await fetch(`${process.env.URL}/data/usa.txt`)
+    let text = await response.text()
+    const lines = text.split('\n');
         const usaSates: any = [];
         let state: any = []
         for (let line of lines) {
@@ -42,12 +41,10 @@ export const handler: Handler = async (event, context) => {
           });
         });
         svgCoordinates = newSvgCoordinates;
-      }).catch(error => {
-        console.error(error);
-      });
   }
 
-  getMapData();
+  await getMapData();
+  console.log(svgCoordinates)
 
   const paths = svgCoordinates.map((stateCoordinates: any, index) => {
 
@@ -68,6 +65,7 @@ export const handler: Handler = async (event, context) => {
 
   let group = svg.append("g")
     .attr("transform","translate(1950,570) scale(5 5) scale(-1,1) rotate(-90)")
+
   group.selectAll("path")
     .data(paths)
     .enter()

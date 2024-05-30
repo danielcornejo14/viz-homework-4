@@ -1,0 +1,3295 @@
+{
+    "name": "VUE",
+    "children": [
+        {
+            "name": "VUE",
+            "value": 43042112
+        },
+        {
+            "name": "@babel",
+            "children": [
+                {
+                    "name": "@babel",
+                    "value": 1888798
+                },
+                {
+                    "name": "parser",
+                    "children": [
+                        {
+                            "name": "parser",
+                            "value": 1888696
+                        },
+                        {
+                            "name": "CHANGELOG.md",
+                            "value": 38238
+                        },
+                        {
+                            "name": "LICENSE",
+                            "value": 1086
+                        },
+                        {
+                            "name": "README.md",
+                            "value": 427
+                        },
+                        {
+                            "name": "bin",
+                            "children": [
+                                {
+                                    "name": "bin",
+                                    "value": 430
+                                },
+                                {
+                                    "name": "babel-parser.js",
+                                    "value": 328
+                                }
+                            ]
+                        },
+                        {
+                            "name": "lib",
+                            "children": [
+                                {
+                                    "name": "lib",
+                                    "value": 1840911
+                                },
+                                {
+                                    "name": "index.js",
+                                    "value": 469611
+                                },
+                                {
+                                    "name": "index.js.map",
+                                    "value": 1371164
+                                }
+                            ]
+                        },
+                        {
+                            "name": "package.json",
+                            "value": 1096
+                        },
+                        {
+                            "name": "typings",
+                            "children": [
+                                {
+                                    "name": "typings",
+                                    "value": 6202
+                                },
+                                {
+                                    "name": "babel-parser.d.ts",
+                                    "value": 6100
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "@vitejs",
+            "children": [
+                {
+                    "name": "@vitejs",
+                    "value": 178821
+                },
+                {
+                    "name": "plugin-vue",
+                    "children": [
+                        {
+                            "name": "plugin-vue",
+                            "value": 178719
+                        },
+                        {
+                            "name": "LICENSE",
+                            "value": 1098
+                        },
+                        {
+                            "name": "README.md",
+                            "value": 3916
+                        },
+                        {
+                            "name": "dist",
+                            "children": [
+                                {
+                                    "name": "dist",
+                                    "value": 171811
+                                }
+                            ]
+                        },
+                        {
+                            "name": "dist.index.d.ts",
+                            "value": 2359
+                        },
+                        {
+                            "name": "dist.index.js",
+                            "value": 169316
+                        },
+                        {
+                            "name": "package.json",
+                            "value": 1690
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "@vue",
+            "children": [
+                {
+                    "name": "@vue",
+                    "value": 6191191
+                },
+                {
+                    "name": "compiler-core",
+                    "children": [
+                        {
+                            "name": "compiler-core",
+                            "value": 693228
+                        },
+                        {
+                            "name": "LICENSE",
+                            "value": 1091
+                        },
+                        {
+                            "name": "README.md",
+                            "value": 21
+                        },
+                        {
+                            "name": "dist",
+                            "children": [
+                                {
+                                    "name": "dist",
+                                    "value": 690737
+                                },
+                                {
+                                    "name": "compiler-core.cjs.js",
+                                    "value": 229320
+                                },
+                                {
+                                    "name": "compiler-core.cjs.prod.js",
+                                    "value": 222231
+                                },
+                                {
+                                    "name": "compiler-core.d.ts",
+                                    "value": 43752
+                                },
+                                {
+                                    "name": "compiler-core.esm-bundler.js",
+                                    "value": 195230
+                                }
+                            ]
+                        },
+                        {
+                            "name": "index.js",
+                            "value": 191
+                        },
+                        {
+                            "name": "package.json",
+                            "value": 950
+                        }
+                    ]
+                },
+                {
+                    "name": "compiler-dom",
+                    "children": [
+                        {
+                            "name": "compiler-dom",
+                            "value": 735839
+                        },
+                        {
+                            "name": "LICENSE",
+                            "value": 1091
+                        },
+                        {
+                            "name": "README.md",
+                            "value": 19
+                        },
+                        {
+                            "name": "dist",
+                            "children": [
+                                {
+                                    "name": "dist",
+                                    "value": 733324
+                                },
+                                {
+                                    "name": "compiler-dom.cjs.js",
+                                    "value": 76849
+                                },
+                                {
+                                    "name": "compiler-dom.cjs.prod.js",
+                                    "value": 74981
+                                },
+                                {
+                                    "name": "compiler-dom.d.ts",
+                                    "value": 2147
+                                },
+                                {
+                                    "name": "compiler-dom.esm-browser.js",
+                                    "value": 216060
+                                },
+                                {
+                                    "name": "compiler-dom.esm-browser.prod.js",
+                                    "value": 56402
+                                },
+                                {
+                                    "name": "compiler-dom.esm-bundler.js",
+                                    "value": 19313
+                                },
+                                {
+                                    "name": "compiler-dom.global.js",
+                                    "value": 231014
+                                },
+                                {
+                                    "name": "compiler-dom.global.prod.js",
+                                    "value": 56218
+                                }
+                            ]
+                        },
+                        {
+                            "name": "index.js",
+                            "value": 189
+                        },
+                        {
+                            "name": "package.json",
+                            "value": 978
+                        }
+                    ]
+                },
+                {
+                    "name": "compiler-sfc",
+                    "children": [
+                        {
+                            "name": "compiler-sfc",
+                            "value": 2044482
+                        },
+                        {
+                            "name": "LICENSE",
+                            "value": 1091
+                        },
+                        {
+                            "name": "README.md",
+                            "value": 4434
+                        },
+                        {
+                            "name": "dist",
+                            "children": [
+                                {
+                                    "name": "dist",
+                                    "value": 2037261
+                                },
+                                {
+                                    "name": "compiler-sfc.cjs.js",
+                                    "value": 504725
+                                },
+                                {
+                                    "name": "compiler-sfc.d.ts",
+                                    "value": 10104
+                                },
+                                {
+                                    "name": "compiler-sfc.esm-browser.js",
+                                    "value": 1522262
+                                }
+                            ]
+                        },
+                        {
+                            "name": "package.json",
+                            "value": 1492
+                        }
+                    ]
+                },
+                {
+                    "name": "compiler-ssr",
+                    "children": [
+                        {
+                            "name": "compiler-ssr",
+                            "value": 54358
+                        },
+                        {
+                            "name": "LICENSE",
+                            "value": 1091
+                        },
+                        {
+                            "name": "README.md",
+                            "value": 19
+                        },
+                        {
+                            "name": "dist",
+                            "children": [
+                                {
+                                    "name": "dist",
+                                    "value": 52315
+                                },
+                                {
+                                    "name": "compiler-ssr.cjs.js",
+                                    "value": 51963
+                                },
+                                {
+                                    "name": "compiler-ssr.d.ts",
+                                    "value": 216
+                                }
+                            ]
+                        },
+                        {
+                            "name": "package.json",
+                            "value": 729
+                        }
+                    ]
+                },
+                {
+                    "name": "reactivity",
+                    "children": [
+                        {
+                            "name": "reactivity",
+                            "value": 248698
+                        },
+                        {
+                            "name": "LICENSE",
+                            "value": 1091
+                        },
+                        {
+                            "name": "README.md",
+                            "value": 1049
+                        },
+                        {
+                            "name": "dist",
+                            "children": [
+                                {
+                                    "name": "dist",
+                                    "value": 245230
+                                },
+                                {
+                                    "name": "reactivity.cjs.js",
+                                    "value": 41403
+                                },
+                                {
+                                    "name": "reactivity.cjs.prod.js",
+                                    "value": 38466
+                                },
+                                {
+                                    "name": "reactivity.d.ts",
+                                    "value": 11757
+                                },
+                                {
+                                    "name": "reactivity.esm-browser.js",
+                                    "value": 42343
+                                },
+                                {
+                                    "name": "reactivity.esm-browser.prod.js",
+                                    "value": 11647
+                                },
+                                {
+                                    "name": "reactivity.esm-bundler.js",
+                                    "value": 41895
+                                },
+                                {
+                                    "name": "reactivity.global.js",
+                                    "value": 45767
+                                },
+                                {
+                                    "name": "reactivity.global.prod.js",
+                                    "value": 11612
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "reactivity.index.js",
+                    "value": 185
+                },
+                {
+                    "name": "reactivity.package.json",
+                    "value": 905
+                },
+                {
+                    "name": "reactivity-transform",
+                    "children": [
+                        {
+                            "name": "reactivity-transform",
+                            "value": 27113
+                        },
+                        {
+                            "name": "README.md",
+                            "value": 3014
+                        },
+                        {
+                            "name": "dist",
+                            "children": [
+                                {
+                                    "name": "dist",
+                                    "value": 22970
+                                },
+                                {
+                                    "name": "reactivity-transform.cjs.js",
+                                    "value": 21827
+                                },
+                                {
+                                    "name": "reactivity-transform.d.ts",
+                                    "value": 1007
+                                }
+                            ]
+                        },
+                        {
+                            "name": "package.json",
+                            "value": 959
+                        }
+                    ]
+                },
+                {
+                    "name": "runtime-core",
+                    "children": [
+                        {
+                            "name": "runtime-core",
+                            "value": 952359
+                        },
+                        {
+                            "name": "LICENSE",
+                            "value": 1091
+                        },
+                        {
+                            "name": "README.md",
+                            "value": 790
+                        },
+                        {
+                            "name": "dist",
+                            "children": [
+                                {
+                                    "name": "dist",
+                                    "value": 949220
+                                },
+                                {
+                                    "name": "runtime-core.cjs.js",
+                                    "value": 306756
+                                },
+                                {
+                                    "name": "runtime-core.cjs.prod.js",
+                                    "value": 246061
+                                },
+                                {
+                                    "name": "runtime-core.d.ts",
+                                    "value": 81656
+                                },
+                                {
+                                    "name": "runtime-core.esm-bundler.js",
+                                    "value": 314543
+                                }
+                            ]
+                        },
+                        {
+                            "name": "index.js",
+                            "value": 189
+                        },
+                        {
+                            "name": "package.json",
+                            "value": 831
+                        }
+                    ]
+                },
+                {
+                    "name": "runtime-dom",
+                    "children": [
+                        {
+                            "name": "runtime-dom",
+                            "value": 1231846
+                        },
+                        {
+                            "name": "LICENSE",
+                            "value": 1091
+                        },
+                        {
+                            "name": "README.md",
+                            "value": 198
+                        },
+                        {
+                            "name": "dist",
+                            "children": [
+                                {
+                                    "name": "dist",
+                                    "value": 1229203
+                                },
+                                {
+                                    "name": "runtime-dom.cjs.js",
+                                    "value": 60141
+                                },
+                                {
+                                    "name": "runtime-dom.cjs.prod.js",
+                                    "value": 55312
+                                },
+                                {
+                                    "name": "runtime-dom.d.ts",
+                                    "value": 43204
+                                },
+                                {
+                                    "name": "runtime-dom.esm-browser.js",
+                                    "value": 407976
+                                },
+                                {
+                                    "name": "runtime-dom.esm-browser.prod.js",
+                                    "value": 84400
+                                },
+                                {
+                                    "name": "runtime-dom.esm-bundler.js",
+                                    "value": 61658
+                                },
+                                {
+                                    "name": "runtime-dom.global.js",
+                                    "value": 432395
+                                },
+                                {
+                                    "name": "runtime-dom.global.prod.js",
+                                    "value": 83777
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "runtime-dom.index.js",
+                    "value": 187
+                },
+                {
+                    "name": "runtime-dom.package.json",
+                    "value": 929
+                },
+                {
+                    "name": "server-renderer",
+                    "children": [
+                        {
+                            "name": "server-renderer",
+                            "value": 114063
+                        },
+                        {
+                            "name": "LICENSE",
+                            "value": 1091
+                        },
+                        {
+                            "name": "README.md",
+                            "value": 3881
+                        },
+                        {
+                            "name": "dist",
+                            "children": [
+                                {
+                                    "name": "dist",
+                                    "value": 107779
+                                },
+                                {
+                                    "name": "server-renderer.cjs.js",
+                                    "value": 38124
+                                },
+                                {
+                                    "name": "server-renderer.cjs.prod.js",
+                                    "value": 29033
+                                },
+                                {
+                                    "name": "server-renderer.d.ts",
+                                    "value": 4253
+                                },
+                                {
+                                    "name": "server-renderer.esm-bundler.js",
+                                    "value": 36165
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "server-renderer.index.js",
+                    "value": 195
+                },
+                {
+                    "name": "server-renderer.package.json",
+                    "value": 879
+                },
+                {
+                    "name": "shared",
+                    "children": [
+                        {
+                            "name": "shared",
+                            "value": 88797
+                        },
+                        {
+                            "name": "LICENSE",
+                            "value": 1091
+                        },
+                        {
+                            "name": "README.md",
+                            "value": 87
+                        },
+                        {
+                            "name": "dist",
+                            "children": [
+                                {
+                                    "name": "dist",
+                                    "value": 86494
+                                },
+                                {
+                                    "name": "shared.cjs.js",
+                                    "value": 25270
+                                },
+                                {
+                                    "name": "shared.cjs.prod.js",
+                                    "value": 25236
+                                },
+                                {
+                                    "name": "shared.d.ts",
+                                    "value": 11715
+                                },
+                                {
+                                    "name": "shared.esm-bundler.js",
+                                    "value": 24069
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "shared.index.js",
+                    "value": 177
+                },
+                {
+                    "name": "shared.package.json",
+                    "value": 710
+                }
+            ]
+        },
+        {
+            "name": "csstype",
+            "children": [
+                {
+                    "name": "csstype",
+                    "value": 1954010
+                },
+                {
+                    "name": "LICENSE",
+                    "value": 1081
+                },
+                {
+                    "name": "README.md",
+                    "value": 9026
+                },
+                {
+                    "name": "index.d.ts",
+                    "value": 1651497
+                },
+                {
+                    "name": "index.js.flow",
+                    "value": 290240
+                },
+                {
+                    "name": "package.json",
+                    "value": 1928
+                }
+            ]
+        },
+        {
+            "name": "esbuild",
+            "children": [
+                {
+                    "name": "esbuild",
+                    "value": 8624649
+                },
+                {
+                    "name": "README.md",
+                    "value": 175
+                },
+                {
+                    "name": "bin",
+                    "children": [
+                        {
+                            "name": "bin",
+                            "value": 8513638
+                        },
+                        {
+                            "name": "esbuild",
+                            "children": [
+                                {
+                                    "name": "esbuild",
+                                    "value": 8513536
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "install.js",
+                    "value": 9428
+                },
+                {
+                    "name": "lib",
+                    "children": [
+                        {
+                            "name": "lib",
+                            "value": 99991
+                        },
+                        {
+                            "name": "main.d.ts",
+                            "value": 17724
+                        },
+                        {
+                            "name": "main.js",
+                            "value": 82131
+                        }
+                    ]
+                },
+                {
+                    "name": "package.json",
+                    "value": 1179
+                }
+            ]
+        },
+        {
+            "name": "esbuild-darwin-64",
+            "children": [
+                {
+                    "name": "esbuild-darwin-64",
+                    "value": 8514279
+                },
+                {
+                    "name": "README.md",
+                    "value": 141
+                },
+                {
+                    "name": "bin",
+                    "children": [
+                        {
+                            "name": "bin",
+                            "value": 8513638
+                        },
+                        {
+                            "name": "esbuild",
+                            "children": [
+                                {
+                                    "name": "esbuild",
+                                    "value": 8513536
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "package.json",
+                    "value": 330
+                }
+            ]
+        },
+        {
+            "name": "estree-walker",
+            "children": [
+                {
+                    "name": "estree-walker",
+                    "value": 51399
+                },
+                {
+                    "name": "CHANGELOG.md",
+                    "value": 1548
+                },
+                {
+                    "name": "LICENSE",
+                    "value": 1126
+                },
+                {
+                    "name": "README.md",
+                    "value": 1623
+                },
+                {
+                    "name": "dist",
+                    "children": [
+                        {
+                            "name": "dist",
+                            "value": 15377
+                        },
+                        {
+                            "name": "esm",
+                            "children": [
+                                {
+                                    "name": "esm",
+                                    "value": 7311
+                                }
+                            ]
+                        },
+                        {
+                            "name": "esm.estree-walker.js",
+                            "value": 7158
+                        },
+                        {
+                            "name": "esm.package.json",
+                            "value": 17
+                        },
+                        {
+                            "name": "umd",
+                            "children": [
+                                {
+                                    "name": "umd",
+                                    "value": 7930
+                                }
+                            ]
+                        },
+                        {
+                            "name": "umd.estree-walker.js",
+                            "value": 7828
+                        }
+                    ]
+                },
+                {
+                    "name": "package.json",
+                    "value": 848
+                },
+                {
+                    "name": "src",
+                    "children": [
+                        {
+                            "name": "src",
+                            "value": 7583
+                        }
+                    ]
+                },
+                {
+                    "name": "src.async.js",
+                    "value": 2712
+                },
+                {
+                    "name": "src.index.js",
+                    "value": 842
+                },
+                {
+                    "name": "src.package.json",
+                    "value": 18
+                },
+                {
+                    "name": "src.sync.js",
+                    "value": 2659
+                },
+                {
+                    "name": "src.walker.js",
+                    "value": 1114
+                },
+                {
+                    "name": "types",
+                    "children": [
+                        {
+                            "name": "types",
+                            "value": 22988
+                        }
+                    ]
+                },
+                {
+                    "name": "types.async.d.ts",
+                    "value": 1939
+                },
+                {
+                    "name": "types.index.d.ts",
+                    "value": 2242
+                },
+                {
+                    "name": "types.sync.d.ts",
+                    "value": 1879
+                },
+                {
+                    "name": "types.tsconfig.tsbuildinfo",
+                    "value": 15666
+                },
+                {
+                    "name": "types.walker.d.ts",
+                    "value": 1024
+                }
+            ]
+        },
+        {
+            "name": "fsevents",
+            "children": [
+                {
+                    "name": "fsevents",
+                    "value": 156694
+                },
+                {
+                    "name": "LICENSE",
+                    "value": 1133
+                },
+                {
+                    "name": "README.md",
+                    "value": 2958
+                },
+                {
+                    "name": "fsevents.d.ts",
+                    "value": 1431
+                },
+                {
+                    "name": "fsevents.js",
+                    "value": 2424
+                },
+                {
+                    "name": "fsevents.node",
+                    "value": 147128
+                },
+                {
+                    "name": "package.json",
+                    "value": 1348
+                }
+            ]
+        },
+        {
+            "name": "function-bind",
+            "children": [
+                {
+                    "name": "function-bind",
+                    "value": 15196
+                },
+                {
+                    "name": "LICENSE",
+                    "value": 1052
+                },
+                {
+                    "name": "README.md",
+                    "value": 1488
+                },
+                {
+                    "name": "implementation.js",
+                    "value": 1463
+                },
+                {
+                    "name": "index.js",
+                    "value": 126
+                },
+                {
+                    "name": "package.json",
+                    "value": 1498
+                },
+                {
+                    "name": "test",
+                    "children": [
+                        {
+                            "name": "test",
+                            "value": 9127
+                        },
+                        {
+                            "name": "index.js",
+                            "value": 8991
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "has",
+            "children": [
+                {
+                    "name": "has",
+                    "value": 3212
+                },
+                {
+                    "name": "LICENSE-MIT",
+                    "children": [
+                        {
+                            "name": "LICENSE-MIT",
+                            "value": 1060
+                        }
+                    ]
+                },
+                {
+                    "name": "README.md",
+                    "value": 239
+                },
+                {
+                    "name": "package.json",
+                    "value": 1011
+                },
+                {
+                    "name": "src",
+                    "children": [
+                        {
+                            "name": "src",
+                            "value": 231
+                        }
+                    ]
+                },
+                {
+                    "name": "src.index.js",
+                    "value": 129
+                },
+                {
+                    "name": "test",
+                    "children": [
+                        {
+                            "name": "test",
+                            "value": 433
+                        },
+                        {
+                            "name": "index.js",
+                            "value": 331
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "is-core-module",
+            "children": [
+                {
+                    "name": "is-core-module",
+                    "value": 26847
+                },
+                {
+                    "name": "CHANGELOG.md",
+                    "value": 10629
+                },
+                {
+                    "name": "LICENSE",
+                    "value": 1078
+                },
+                {
+                    "name": "README.md",
+                    "value": 1659
+                },
+                {
+                    "name": "core.json",
+                    "value": 5492
+                },
+                {
+                    "name": "index.js",
+                    "value": 1757
+                },
+                {
+                    "name": "package.json",
+                    "value": 1680
+                },
+                {
+                    "name": "test",
+                    "children": [
+                        {
+                            "name": "test",
+                            "value": 4178
+                        },
+                        {
+                            "name": "index.js",
+                            "value": 4076
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "magic-string",
+            "children": [
+                {
+                    "name": "magic-string",
+                    "value": 373566
+                },
+                {
+                    "name": "LICENSE",
+                    "value": 1051
+                },
+                {
+                    "name": "README.md",
+                    "value": 9313
+                },
+                {
+                    "name": "dist",
+                    "children": [
+                        {
+                            "name": "dist",
+                            "value": 353780
+                        },
+                        {
+                            "name": "magic-string.cjs.js",
+                            "value": 33911
+                        },
+                        {
+                            "name": "magic-string.cjs.js.map",
+                            "value": 80859
+                        },
+                        {
+                            "name": "magic-string.es.js",
+                            "value": 33714
+                        },
+                        {
+                            "name": "magic-string.es.js.map",
+                            "value": 80361
+                        },
+                        {
+                            "name": "magic-string.umd.js",
+                            "value": 37176
+                        },
+                        {
+                            "name": "magic-string.umd.js.map",
+                            "value": 87487
+                        }
+                    ]
+                },
+                {
+                    "name": "index.d.ts",
+                    "value": 7678
+                },
+                {
+                    "name": "package.json",
+                    "value": 1506
+                }
+            ]
+        },
+        {
+            "name": "nanoid",
+            "children": [
+                {
+                    "name": "nanoid",
+                    "value": 22875
+                },
+                {
+                    "name": "LICENSE",
+                    "value": 1095
+                },
+                {
+                    "name": "README.md",
+                    "value": 1557
+                },
+                {
+                    "name": "async",
+                    "children": [
+                        {
+                            "name": "async",
+                            "value": 6783
+                        },
+                        {
+                            "name": "index.browser.cjs",
+                            "value": 983
+                        },
+                        {
+                            "name": "index.browser.js",
+                            "value": 973
+                        },
+                        {
+                            "name": "index.cjs",
+                            "value": 993
+                        },
+                        {
+                            "name": "index.d.ts",
+                            "value": 1505
+                        },
+                        {
+                            "name": "index.js",
+                            "value": 976
+                        },
+                        {
+                            "name": "index.native.js",
+                            "value": 814
+                        },
+                        {
+                            "name": "package.json",
+                            "value": 233
+                        }
+                    ]
+                },
+                {
+                    "name": "bin",
+                    "children": [
+                        {
+                            "name": "bin",
+                            "value": 1231
+                        },
+                        {
+                            "name": "nanoid.cjs",
+                            "value": 1129
+                        }
+                    ]
+                },
+                {
+                    "name": "index.browser.cjs",
+                    "value": 1074
+                },
+                {
+                    "name": "index.browser.js",
+                    "value": 1060
+                },
+                {
+                    "name": "index.cjs",
+                    "value": 1343
+                },
+                {
+                    "name": "index.d.ts",
+                    "value": 2252
+                },
+                {
+                    "name": "index.js",
+                    "value": 1326
+                },
+                {
+                    "name": "nanoid.js",
+                    "value": 169
+                },
+                {
+                    "name": "non-secure",
+                    "children": [
+                        {
+                            "name": "non-secure",
+                            "value": 2274
+                        },
+                        {
+                            "name": "index.cjs",
+                            "value": 499
+                        },
+                        {
+                            "name": "index.d.ts",
+                            "value": 983
+                        },
+                        {
+                            "name": "index.js",
+                            "value": 489
+                        },
+                        {
+                            "name": "package.json",
+                            "value": 99
+                        }
+                    ]
+                },
+                {
+                    "name": "package.json",
+                    "value": 1702
+                },
+                {
+                    "name": "url-alphabet",
+                    "children": [
+                        {
+                            "name": "url-alphabet",
+                            "value": 499
+                        },
+                        {
+                            "name": "index.cjs",
+                            "value": 120
+                        },
+                        {
+                            "name": "index.js",
+                            "value": 110
+                        },
+                        {
+                            "name": "package.json",
+                            "value": 99
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "path-parse",
+            "children": [
+                {
+                    "name": "path-parse",
+                    "value": 4715
+                },
+                {
+                    "name": "LICENSE",
+                    "value": 1080
+                },
+                {
+                    "name": "README.md",
+                    "value": 871
+                },
+                {
+                    "name": "index.js",
+                    "value": 1893
+                },
+                {
+                    "name": "package.json",
+                    "value": 667
+                }
+            ]
+        },
+        {
+            "name": "picocolors",
+            "children": [
+                {
+                    "name": "picocolors",
+                    "value": 5961
+                },
+                {
+                    "name": "LICENSE",
+                    "value": 781
+                },
+                {
+                    "name": "README.md",
+                    "value": 622
+                },
+                {
+                    "name": "package.json",
+                    "value": 550
+                },
+                {
+                    "name": "picocolors.browser.js",
+                    "value": 360
+                },
+                {
+                    "name": "picocolors.d.ts",
+                    "value": 138
+                },
+                {
+                    "name": "picocolors.js",
+                    "value": 2594
+                },
+                {
+                    "name": "types.ts",
+                    "value": 610
+                }
+            ]
+        },
+        {
+            "name": "postcss",
+            "children": [
+                {
+                    "name": "postcss",
+                    "value": 188443
+                },
+                {
+                    "name": "LICENSE",
+                    "value": 1095
+                },
+                {
+                    "name": "README.md",
+                    "value": 1965
+                },
+                {
+                    "name": "lib",
+                    "children": [
+                        {
+                            "name": "lib",
+                            "value": 182729
+                        },
+                        {
+                            "name": "at-rule.d.ts",
+                            "value": 2498
+                        },
+                        {
+                            "name": "at-rule.js",
+                            "value": 471
+                        },
+                        {
+                            "name": "comment.d.ts",
+                            "value": 1376
+                        },
+                        {
+                            "name": "comment.js",
+                            "value": 203
+                        },
+                        {
+                            "name": "container.d.ts",
+                            "value": 12590
+                        },
+                        {
+                            "name": "container.js",
+                            "value": 10228
+                        },
+                        {
+                            "name": "css-syntax-error.d.ts",
+                            "value": 6223
+                        },
+                        {
+                            "name": "css-syntax-error.js",
+                            "value": 2524
+                        },
+                        {
+                            "name": "declaration.d.ts",
+                            "value": 3059
+                        },
+                        {
+                            "name": "declaration.js",
+                            "value": 495
+                        },
+                        {
+                            "name": "document.d.ts",
+                            "value": 1524
+                        },
+                        {
+                            "name": "document.js",
+                            "value": 654
+                        },
+                        {
+                            "name": "fromJSON.d.ts",
+                            "value": 107
+                        },
+                        {
+                            "name": "fromJSON.js",
+                            "value": 1506
+                        },
+                        {
+                            "name": "input.d.ts",
+                            "value": 3466
+                        },
+                        {
+                            "name": "input.js",
+                            "value": 6189
+                        },
+                        {
+                            "name": "lazy-result.d.ts",
+                            "value": 4630
+                        },
+                        {
+                            "name": "lazy-result.js",
+                            "value": 13562
+                        },
+                        {
+                            "name": "list.d.ts",
+                            "value": 1262
+                        },
+                        {
+                            "name": "list.js",
+                            "value": 1167
+                        },
+                        {
+                            "name": "map-generator.js",
+                            "value": 8786
+                        },
+                        {
+                            "name": "no-work-result.d.ts",
+                            "value": 1323
+                        },
+                        {
+                            "name": "no-work-result.js",
+                            "value": 2551
+                        },
+                        {
+                            "name": "node.d.ts",
+                            "value": 12457
+                        },
+                        {
+                            "name": "node.js",
+                            "value": 8485
+                        },
+                        {
+                            "name": "parse.d.ts",
+                            "value": 89
+                        },
+                        {
+                            "name": "parse.js",
+                            "value": 1147
+                        },
+                        {
+                            "name": "parser.js",
+                            "value": 14482
+                        },
+                        {
+                            "name": "postcss.d.ts",
+                            "value": 11357
+                        },
+                        {
+                            "name": "postcss.js",
+                            "value": 2786
+                        },
+                        {
+                            "name": "postcss.mjs",
+                            "value": 980
+                        },
+                        {
+                            "name": "previous-map.d.ts",
+                            "value": 1618
+                        },
+                        {
+                            "name": "previous-map.js",
+                            "value": 3923
+                        },
+                        {
+                            "name": "processor.d.ts",
+                            "value": 3012
+                        },
+                        {
+                            "name": "processor.js",
+                            "value": 1810
+                        },
+                        {
+                            "name": "result.d.ts",
+                            "value": 4115
+                        },
+                        {
+                            "name": "result.js",
+                            "value": 745
+                        },
+                        {
+                            "name": "root.d.ts",
+                            "value": 1856
+                        },
+                        {
+                            "name": "root.js",
+                            "value": 1209
+                        },
+                        {
+                            "name": "rule.d.ts",
+                            "value": 2395
+                        },
+                        {
+                            "name": "rule.js",
+                            "value": 569
+                        },
+                        {
+                            "name": "stringifier.d.ts",
+                            "value": 1202
+                        },
+                        {
+                            "name": "stringifier.js",
+                            "value": 8220
+                        },
+                        {
+                            "name": "stringify.d.ts",
+                            "value": 107
+                        },
+                        {
+                            "name": "stringify.js",
+                            "value": 213
+                        },
+                        {
+                            "name": "symbols.js",
+                            "value": 91
+                        },
+                        {
+                            "name": "terminal-highlight.js",
+                            "value": 1399
+                        },
+                        {
+                            "name": "tokenize.js",
+                            "value": 6536
+                        },
+                        {
+                            "name": "warn-once.js",
+                            "value": 256
+                        },
+                        {
+                            "name": "warning.d.ts",
+                            "value": 2735
+                        },
+                        {
+                            "name": "warning.js",
+                            "value": 739
+                        }
+                    ]
+                },
+                {
+                    "name": "package.json",
+                    "value": 2450
+                }
+            ]
+        },
+        {
+            "name": "resolve",
+            "children": [
+                {
+                    "name": "resolve",
+                    "value": 150002
+                },
+                {
+                    "name": "LICENSE",
+                    "value": 1071
+                },
+                {
+                    "name": "SECURITY.md",
+                    "value": 157
+                },
+                {
+                    "name": "appveyor.yml",
+                    "value": 2768
+                },
+                {
+                    "name": "async.js",
+                    "value": 56
+                },
+                {
+                    "name": "bin",
+                    "children": [
+                        {
+                            "name": "bin",
+                            "value": 1575
+                        },
+                        {
+                            "name": "resolve",
+                            "children": [
+                                {
+                                    "name": "resolve",
+                                    "value": 1473
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "example",
+                    "children": [
+                        {
+                            "name": "example",
+                            "value": 394
+                        },
+                        {
+                            "name": "async.js",
+                            "value": 155
+                        },
+                        {
+                            "name": "sync.js",
+                            "value": 103
+                        }
+                    ]
+                },
+                {
+                    "name": "index.js",
+                    "value": 174
+                },
+                {
+                    "name": "lib",
+                    "children": [
+                        {
+                            "name": "lib",
+                            "value": 28765
+                        },
+                        {
+                            "name": "async.js",
+                            "value": 11359
+                        },
+                        {
+                            "name": "caller.js",
+                            "value": 354
+                        },
+                        {
+                            "name": "core.js",
+                            "value": 1653
+                        },
+                        {
+                            "name": "core.json",
+                            "value": 5469
+                        },
+                        {
+                            "name": "homedir.js",
+                            "value": 805
+                        },
+                        {
+                            "name": "is-core.js",
+                            "value": 116
+                        },
+                        {
+                            "name": "node-modules-paths.js",
+                            "value": 1294
+                        },
+                        {
+                            "name": "normalize-options.js",
+                            "value": 348
+                        },
+                        {
+                            "name": "sync.js",
+                            "value": 6993
+                        }
+                    ]
+                },
+                {
+                    "name": "package.json",
+                    "value": 1765
+                },
+                {
+                    "name": "readme.markdown",
+                    "value": 11504
+                },
+                {
+                    "name": "sync.js",
+                    "value": 55
+                },
+                {
+                    "name": "test",
+                    "children": [
+                        {
+                            "name": "test",
+                            "value": 101140
+                        },
+                        {
+                            "name": "core.js",
+                            "value": 2671
+                        },
+                        {
+                            "name": "dotdot",
+                            "children": [
+                                {
+                                    "name": "dotdot",
+                                    "value": 306
+                                },
+                                {
+                                    "name": "abc",
+                                    "children": [
+                                        {
+                                            "name": "abc",
+                                            "value": 141
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "abc.index.js",
+                                    "value": 39
+                                },
+                                {
+                                    "name": "index.js",
+                                    "value": 29
+                                },
+                                {
+                                    "name": "js",
+                                    "children": [
+                                        {
+                                            "name": "js",
+                                            "value": 799
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "faulty_basedir.js",
+                            "value": 807
+                        },
+                        {
+                            "name": "filter.js",
+                            "value": 1045
+                        },
+                        {
+                            "name": "filter_sync.js",
+                            "value": 1427
+                        },
+                        {
+                            "name": "home_paths.js",
+                            "value": 4472
+                        },
+                        {
+                            "name": "home_paths_sync.js",
+                            "value": 3797
+                        },
+                        {
+                            "name": "mock.js",
+                            "value": 10012
+                        },
+                        {
+                            "name": "mock_sync.js",
+                            "value": 6047
+                        },
+                        {
+                            "name": "module_dir",
+                            "children": [
+                                {
+                                    "name": "module_dir",
+                                    "value": 993
+                                },
+                                {
+                                    "name": "xmodules",
+                                    "children": [
+                                        {
+                                            "name": "xmodules",
+                                            "value": 255
+                                        },
+                                        {
+                                            "name": "aaa",
+                                            "children": [
+                                                {
+                                                    "name": "aaa",
+                                                    "value": 153
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "aaa.index.js",
+                                            "value": 51
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "ymodules",
+                                    "children": [
+                                        {
+                                            "name": "ymodules",
+                                            "value": 255
+                                        },
+                                        {
+                                            "name": "aaa",
+                                            "children": [
+                                                {
+                                                    "name": "aaa",
+                                                    "value": 153
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "aaa.index.js",
+                                            "value": 51
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "zmodules",
+                                    "children": [
+                                        {
+                                            "name": "zmodules",
+                                            "value": 313
+                                        },
+                                        {
+                                            "name": "bbb",
+                                            "children": [
+                                                {
+                                                    "name": "bbb",
+                                                    "value": 211
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "bbb.main.js",
+                                            "value": 51
+                                        },
+                                        {
+                                            "name": "bbb.package.json",
+                                            "value": 24
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "js",
+                                    "children": [
+                                        {
+                                            "name": "js",
+                                            "value": 1558
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "node-modules-paths.js",
+                            "value": 5101
+                        },
+                        {
+                            "name": "node_path",
+                            "children": [
+                                {
+                                    "name": "node_path",
+                                    "value": 905
+                                },
+                                {
+                                    "name": "x",
+                                    "children": [
+                                        {
+                                            "name": "x",
+                                            "value": 384
+                                        },
+                                        {
+                                            "name": "aaa",
+                                            "children": [
+                                                {
+                                                    "name": "aaa",
+                                                    "value": 124
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "aaa.index.js",
+                                            "value": 22
+                                        },
+                                        {
+                                            "name": "ccc",
+                                            "children": [
+                                                {
+                                                    "name": "ccc",
+                                                    "value": 124
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "ccc.index.js",
+                                            "value": 22
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "y",
+                                    "children": [
+                                        {
+                                            "name": "y",
+                                            "value": 385
+                                        },
+                                        {
+                                            "name": "bbb",
+                                            "children": [
+                                                {
+                                                    "name": "bbb",
+                                                    "value": 124
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "bbb.index.js",
+                                            "value": 22
+                                        },
+                                        {
+                                            "name": "ccc",
+                                            "children": [
+                                                {
+                                                    "name": "ccc",
+                                                    "value": 125
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "ccc.index.js",
+                                            "value": 23
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "js",
+                                    "children": [
+                                        {
+                                            "name": "js",
+                                            "value": 2128
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "nonstring.js",
+                            "value": 182
+                        },
+                        {
+                            "name": "pathfilter",
+                            "children": [
+                                {
+                                    "name": "pathfilter",
+                                    "value": 204
+                                },
+                                {
+                                    "name": "deep_ref",
+                                    "children": [
+                                        {
+                                            "name": "deep_ref",
+                                            "value": 102
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "deep_ref.main.js",
+                                    "value": 0
+                                },
+                                {
+                                    "name": "js",
+                                    "children": [
+                                        {
+                                            "name": "js",
+                                            "value": 2248
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "precedence",
+                            "children": [
+                                {
+                                    "name": "precedence",
+                                    "value": 587
+                                },
+                                {
+                                    "name": "aaa",
+                                    "children": [
+                                        {
+                                            "name": "aaa",
+                                            "value": 189
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "aaa.index.js",
+                                    "value": 25
+                                },
+                                {
+                                    "name": "aaa.main.js",
+                                    "value": 28
+                                },
+                                {
+                                    "name": "aaa.js",
+                                    "value": 24
+                                },
+                                {
+                                    "name": "bbb",
+                                    "children": [
+                                        {
+                                            "name": "bbb",
+                                            "value": 146
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "bbb.main.js",
+                                    "value": 44
+                                },
+                                {
+                                    "name": "bbb.js",
+                                    "value": 24
+                                },
+                                {
+                                    "name": "js",
+                                    "children": [
+                                        {
+                                            "name": "js",
+                                            "value": 646
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "resolver",
+                            "children": [
+                                {
+                                    "name": "resolver",
+                                    "value": 8645
+                                },
+                                {
+                                    "name": "baz",
+                                    "children": [
+                                        {
+                                            "name": "baz",
+                                            "value": 235
+                                        },
+                                        {
+                                            "name": "doom.js",
+                                            "value": 0
+                                        },
+                                        {
+                                            "name": "package.json",
+                                            "value": 45
+                                        },
+                                        {
+                                            "name": "quux.js",
+                                            "value": 20
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "browser_field",
+                                    "children": [
+                                        {
+                                            "name": "browser_field",
+                                            "value": 233
+                                        },
+                                        {
+                                            "name": "a.js",
+                                            "value": 0
+                                        },
+                                        {
+                                            "name": "b.js",
+                                            "value": 0
+                                        },
+                                        {
+                                            "name": "package.json",
+                                            "value": 63
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "cup.coffee",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "dot_main",
+                                    "children": [
+                                        {
+                                            "name": "dot_main",
+                                            "value": 176
+                                        },
+                                        {
+                                            "name": "index.js",
+                                            "value": 20
+                                        },
+                                        {
+                                            "name": "package.json",
+                                            "value": 20
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "dot_slash_main",
+                                    "children": [
+                                        {
+                                            "name": "dot_slash_main",
+                                            "value": 177
+                                        },
+                                        {
+                                            "name": "index.js",
+                                            "value": 20
+                                        },
+                                        {
+                                            "name": "package.json",
+                                            "value": 21
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "foo.js",
+                                    "value": 20
+                                },
+                                {
+                                    "name": "incorrect_main",
+                                    "children": [
+                                        {
+                                            "name": "incorrect_main",
+                                            "value": 279
+                                        },
+                                        {
+                                            "name": "index.js",
+                                            "value": 116
+                                        },
+                                        {
+                                            "name": "package.json",
+                                            "value": 27
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "invalid_main",
+                                    "children": [
+                                        {
+                                            "name": "invalid_main",
+                                            "value": 195
+                                        },
+                                        {
+                                            "name": "package.json",
+                                            "value": 93
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "malformed_package_json",
+                                    "children": [
+                                        {
+                                            "name": "malformed_package_json",
+                                            "value": 138
+                                        },
+                                        {
+                                            "name": "index.js",
+                                            "value": 0
+                                        },
+                                        {
+                                            "name": "package.json",
+                                            "value": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "mug.coffee",
+                                    "value": 0
+                                },
+                                {
+                                    "name": "mug.js",
+                                    "value": 0
+                                },
+                                {
+                                    "name": "multirepo",
+                                    "children": [
+                                        {
+                                            "name": "multirepo",
+                                            "value": 2902
+                                        },
+                                        {
+                                            "name": "lerna.json",
+                                            "value": 63
+                                        },
+                                        {
+                                            "name": "package.json",
+                                            "value": 380
+                                        },
+                                        {
+                                            "name": "packages",
+                                            "children": [
+                                                {
+                                                    "name": "packages",
+                                                    "value": 2289
+                                                },
+                                                {
+                                                    "name": "package-a",
+                                                    "children": [
+                                                        {
+                                                            "name": "package-a",
+                                                            "value": 1736
+                                                        },
+                                                        {
+                                                            "name": "index.js",
+                                                            "value": 1319
+                                                        },
+                                                        {
+                                                            "name": "package.json",
+                                                            "value": 281
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "package-b",
+                                                    "children": [
+                                                        {
+                                                            "name": "package-b",
+                                                            "value": 417
+                                                        },
+                                                        {
+                                                            "name": "index.js",
+                                                            "value": 0
+                                                        },
+                                                        {
+                                                            "name": "package.json",
+                                                            "value": 281
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "nested_symlinks",
+                                    "children": [
+                                        {
+                                            "name": "nested_symlinks",
+                                            "value": 1995
+                                        },
+                                        {
+                                            "name": "mylib",
+                                            "children": [
+                                                {
+                                                    "name": "mylib",
+                                                    "value": 1893
+                                                },
+                                                {
+                                                    "name": "async.js",
+                                                    "value": 858
+                                                },
+                                                {
+                                                    "name": "package.json",
+                                                    "value": 259
+                                                },
+                                                {
+                                                    "name": "sync.js",
+                                                    "value": 606
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "other_path",
+                                    "children": [
+                                        {
+                                            "name": "other_path",
+                                            "value": 238
+                                        },
+                                        {
+                                            "name": "lib",
+                                            "children": [
+                                                {
+                                                    "name": "lib",
+                                                    "value": 102
+                                                },
+                                                {
+                                                    "name": "other-lib.js",
+                                                    "value": 0
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "root.js",
+                                            "value": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "quux",
+                                    "children": [
+                                        {
+                                            "name": "quux",
+                                            "value": 224
+                                        },
+                                        {
+                                            "name": "foo",
+                                            "children": [
+                                                {
+                                                    "name": "foo",
+                                                    "value": 122
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "foo.index.js",
+                                            "value": 20
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "same_names",
+                                    "children": [
+                                        {
+                                            "name": "same_names",
+                                            "value": 279
+                                        },
+                                        {
+                                            "name": "foo",
+                                            "children": [
+                                                {
+                                                    "name": "foo",
+                                                    "value": 122
+                                                },
+                                                {
+                                                    "name": "index.js",
+                                                    "value": 20
+                                                },
+                                                {
+                                                    "name": "js",
+                                                    "children": [
+                                                        {
+                                                            "name": "js",
+                                                            "value": 21
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "symlinked",
+                                    "children": [
+                                        {
+                                            "name": "symlinked",
+                                            "value": 660
+                                        },
+                                        {
+                                            "name": "_",
+                                            "children": [
+                                                {
+                                                    "name": "_",
+                                                    "value": 340
+                                                },
+                                                {
+                                                    "name": "node_modules",
+                                                    "children": [
+                                                        {
+                                                            "name": "node_modules",
+                                                            "value": 102
+                                                        },
+                                                        {
+                                                            "name": "foo.js",
+                                                            "value": 0
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "symlink_target",
+                                                    "children": [
+                                                        {
+                                                            "name": "symlink_target",
+                                                            "value": 102
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "package",
+                                            "children": [
+                                                {
+                                                    "name": "package",
+                                                    "value": 184
+                                                },
+                                                {
+                                                    "name": "bar.js",
+                                                    "value": 24
+                                                },
+                                                {
+                                                    "name": "package.json",
+                                                    "value": 24
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "without_basedir",
+                                    "children": [
+                                        {
+                                            "name": "without_basedir",
+                                            "value": 213
+                                        },
+                                        {
+                                            "name": "main.js",
+                                            "value": 111
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "resolver.js",
+                            "value": 18556
+                        },
+                        {
+                            "name": "resolver_sync.js",
+                            "value": 18010
+                        },
+                        {
+                            "name": "shadowed_core",
+                            "children": [
+                                {
+                                    "name": "shadowed_core",
+                                    "value": 306
+                                },
+                                {
+                                    "name": "node_modules",
+                                    "children": [
+                                        {
+                                            "name": "node_modules",
+                                            "value": 204
+                                        },
+                                        {
+                                            "name": "util",
+                                            "children": [
+                                                {
+                                                    "name": "util",
+                                                    "value": 102
+                                                },
+                                                {
+                                                    "name": "index.js",
+                                                    "value": 0
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "shadowed_core.js",
+                            "value": 1814
+                        },
+                        {
+                            "name": "subdirs.js",
+                            "value": 353
+                        },
+                        {
+                            "name": "symlinks.js",
+                            "value": 6535
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "rollup",
+            "children": [
+                {
+                    "name": "rollup",
+                    "value": 6573593
+                },
+                {
+                    "name": "CHANGELOG.md",
+                    "value": 242619
+                },
+                {
+                    "name": "LICENSE.md",
+                    "value": 35412
+                },
+                {
+                    "name": "README.md",
+                    "value": 8835
+                },
+                {
+                    "name": "dist",
+                    "children": [
+                        {
+                            "name": "dist",
+                            "value": 6281029
+                        },
+                        {
+                            "name": "bin",
+                            "children": [
+                                {
+                                    "name": "bin",
+                                    "value": 73465
+                                }
+                            ]
+                        },
+                        {
+                            "name": "bin.rollup",
+                            "value": 73363
+                        },
+                        {
+                            "name": "es",
+                            "children": [
+                                {
+                                    "name": "es",
+                                    "value": 1419210
+                                },
+                                {
+                                    "name": "package.json",
+                                    "value": 17
+                                },
+                                {
+                                    "name": "rollup.browser.js",
+                                    "value": 395242
+                                },
+                                {
+                                    "name": "rollup.js",
+                                    "value": 373
+                                },
+                                {
+                                    "name": "shared",
+                                    "children": [
+                                        {
+                                            "name": "shared",
+                                            "value": 1023374
+                                        },
+                                        {
+                                            "name": "rollup.js",
+                                            "value": 884933
+                                        },
+                                        {
+                                            "name": "watch.js",
+                                            "value": 138305
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "loadConfigFile.js",
+                            "value": 578
+                        },
+                        {
+                            "name": "rollup.browser.js",
+                            "value": 394586
+                        },
+                        {
+                            "name": "rollup.browser.js.map",
+                            "value": 3298388
+                        },
+                        {
+                            "name": "rollup.d.ts",
+                            "value": 26978
+                        },
+                        {
+                            "name": "rollup.js",
+                            "value": 649
+                        },
+                        {
+                            "name": "shared",
+                            "children": [
+                                {
+                                    "name": "shared",
+                                    "value": 1066835
+                                },
+                                {
+                                    "name": "index.js",
+                                    "value": 121328
+                                },
+                                {
+                                    "name": "loadConfigFile.js",
+                                    "value": 24436
+                                },
+                                {
+                                    "name": "mergeOptions.js",
+                                    "value": 8170
+                                },
+                                {
+                                    "name": "rollup.js",
+                                    "value": 886672
+                                },
+                                {
+                                    "name": "watch-cli.js",
+                                    "value": 15885
+                                },
+                                {
+                                    "name": "watch.js",
+                                    "value": 10072
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "package.json",
+                    "value": 5460
+                }
+            ]
+        },
+        {
+            "name": "source-map",
+            "children": [
+                {
+                    "name": "source-map",
+                    "value": 806176
+                },
+                {
+                    "name": "CHANGELOG.md",
+                    "value": 7884
+                },
+                {
+                    "name": "LICENSE",
+                    "value": 1526
+                },
+                {
+                    "name": "README.md",
+                    "value": 24072
+                },
+                {
+                    "name": "dist",
+                    "children": [
+                        {
+                            "name": "dist",
+                            "value": 664571
+                        },
+                        {
+                            "name": "source-map.debug.js",
+                            "value": 272874
+                        },
+                        {
+                            "name": "source-map.js",
+                            "value": 106973
+                        },
+                        {
+                            "name": "source-map.min.js",
+                            "value": 27111
+                        },
+                        {
+                            "name": "source-map.min.js.map",
+                            "value": 257409
+                        }
+                    ]
+                },
+                {
+                    "name": "lib",
+                    "children": [
+                        {
+                            "name": "lib",
+                            "value": 101739
+                        },
+                        {
+                            "name": "array-set.js",
+                            "value": 3197
+                        },
+                        {
+                            "name": "base64-vlq.js",
+                            "value": 4714
+                        },
+                        {
+                            "name": "base64.js",
+                            "value": 1540
+                        },
+                        {
+                            "name": "binary-search.js",
+                            "value": 4249
+                        },
+                        {
+                            "name": "mapping-list.js",
+                            "value": 2339
+                        },
+                        {
+                            "name": "quick-sort.js",
+                            "value": 3616
+                        },
+                        {
+                            "name": "source-map-consumer.js",
+                            "value": 40562
+                        },
+                        {
+                            "name": "source-map-generator.js",
+                            "value": 14356
+                        },
+                        {
+                            "name": "source-node.js",
+                            "value": 13808
+                        },
+                        {
+                            "name": "util.js",
+                            "value": 12950
+                        }
+                    ]
+                },
+                {
+                    "name": "package.json",
+                    "value": 2579
+                },
+                {
+                    "name": "source-map.d.ts",
+                    "value": 3060
+                },
+                {
+                    "name": "source-map.js",
+                    "value": 405
+                }
+            ]
+        },
+        {
+            "name": "source-map-js",
+            "children": [
+                {
+                    "name": "source-map-js",
+                    "value": 148545
+                },
+                {
+                    "name": "CHANGELOG.md",
+                    "value": 8606
+                },
+                {
+                    "name": "LICENSE",
+                    "value": 1526
+                },
+                {
+                    "name": "README.md",
+                    "value": 25736
+                },
+                {
+                    "name": "lib",
+                    "children": [
+                        {
+                            "name": "lib",
+                            "value": 105564
+                        },
+                        {
+                            "name": "array-set.js",
+                            "value": 3197
+                        },
+                        {
+                            "name": "base64-vlq.js",
+                            "value": 4714
+                        },
+                        {
+                            "name": "base64.js",
+                            "value": 1540
+                        },
+                        {
+                            "name": "binary-search.js",
+                            "value": 4249
+                        },
+                        {
+                            "name": "mapping-list.js",
+                            "value": 2339
+                        },
+                        {
+                            "name": "quick-sort.js",
+                            "value": 4068
+                        },
+                        {
+                            "name": "source-map-consumer.js",
+                            "value": 41482
+                        },
+                        {
+                            "name": "source-map-generator.js",
+                            "value": 14356
+                        },
+                        {
+                            "name": "source-node.js",
+                            "value": 13808
+                        },
+                        {
+                            "name": "util.js",
+                            "value": 15403
+                        }
+                    ]
+                },
+                {
+                    "name": "package.json",
+                    "value": 2548
+                },
+                {
+                    "name": "source-map.d.ts",
+                    "value": 3854
+                },
+                {
+                    "name": "source-map.js",
+                    "value": 405
+                }
+            ]
+        },
+        {
+            "name": "sourcemap-codec",
+            "children": [
+                {
+                    "name": "sourcemap-codec",
+                    "value": 32380
+                },
+                {
+                    "name": "CHANGELOG.md",
+                    "value": 1249
+                },
+                {
+                    "name": "LICENSE",
+                    "value": 1072
+                },
+                {
+                    "name": "README.md",
+                    "value": 1835
+                },
+                {
+                    "name": "dist",
+                    "children": [
+                        {
+                            "name": "dist",
+                            "value": 26169
+                        },
+                        {
+                            "name": "sourcemap-codec.es.js",
+                            "value": 4200
+                        },
+                        {
+                            "name": "sourcemap-codec.es.js.map",
+                            "value": 8249
+                        },
+                        {
+                            "name": "sourcemap-codec.umd.js",
+                            "value": 4717
+                        },
+                        {
+                            "name": "sourcemap-codec.umd.js.map",
+                            "value": 8286
+                        },
+                        {
+                            "name": "types",
+                            "children": [
+                                {
+                                    "name": "types",
+                                    "value": 479
+                                },
+                                {
+                                    "name": "sourcemap-codec.d.ts",
+                                    "value": 377
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "package.json",
+                    "value": 1817
+                }
+            ]
+        },
+        {
+            "name": "supports-preserve-symlinks-flag",
+            "children": [
+                {
+                    "name": "supports-preserve-symlinks-flag",
+                    "value": 8816
+                },
+                {
+                    "name": "CHANGELOG.md",
+                    "value": 1989
+                },
+                {
+                    "name": "LICENSE",
+                    "value": 1067
+                },
+                {
+                    "name": "README.md",
+                    "value": 2287
+                },
+                {
+                    "name": "browser.js",
+                    "value": 38
+                },
+                {
+                    "name": "index.js",
+                    "value": 293
+                },
+                {
+                    "name": "package.json",
+                    "value": 1895
+                },
+                {
+                    "name": "test",
+                    "children": [
+                        {
+                            "name": "test",
+                            "value": 839
+                        }
+                    ]
+                },
+                {
+                    "name": "test.index.js",
+                    "value": 737
+                }
+            ]
+        },
+        {
+            "name": "vite",
+            "children": [
+                {
+                    "name": "vite",
+                    "value": 4589287
+                },
+                {
+                    "name": "LICENSE.md",
+                    "value": 182935
+                },
+                {
+                    "name": "README.md",
+                    "value": 1164
+                },
+                {
+                    "name": "bin",
+                    "children": [
+                        {
+                            "name": "bin",
+                            "value": 4085
+                        },
+                        {
+                            "name": "openChrome.applescript",
+                            "value": 2356
+                        },
+                        {
+                            "name": "vite.js",
+                            "value": 1593
+                        }
+                    ]
+                },
+                {
+                    "name": "client.d.ts",
+                    "value": 3720
+                },
+                {
+                    "name": "dist",
+                    "children": [
+                        {
+                            "name": "dist",
+                            "value": 4314559
+                        },
+                        {
+                            "name": "client",
+                            "children": [
+                                {
+                                    "name": "client",
+                                    "value": 54155
+                                },
+                                {
+                                    "name": "client.mjs",
+                                    "value": 18416
+                                },
+                                {
+                                    "name": "client.mjs.map",
+                                    "value": 33073
+                                }
+                            ]
+                        },
+                        {
+                            "name": "client.env.mjs",
+                            "value": 776
+                        },
+                        {
+                            "name": "client.env.mjs.map",
+                            "value": 1686
+                        },
+                        {
+                            "name": "node",
+                            "children": [
+                                {
+                                    "name": "node",
+                                    "value": 4260268
+                                },
+                                {
+                                    "name": "chunks",
+                                    "children": [
+                                        {
+                                            "name": "chunks",
+                                            "value": 3086039
+                                        },
+                                        {
+                                            "name": "dep-2056ae8a.js",
+                                            "value": 12828
+                                        },
+                                        {
+                                            "name": "dep-59dc6e00.js",
+                                            "value": 1937821
+                                        },
+                                        {
+                                            "name": "dep-739cc694.js",
+                                            "value": 300323
+                                        },
+                                        {
+                                            "name": "dep-a9015192.js",
+                                            "value": 22032
+                                        },
+                                        {
+                                            "name": "dep-ac1ae66b.js",
+                                            "value": 590724
+                                        },
+                                        {
+                                            "name": "dep-d2c728c0.js",
+                                            "value": 222039
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "cli.js",
+                                    "value": 25563
+                                },
+                                {
+                                    "name": "index.d.ts",
+                                    "value": 99386
+                                },
+                                {
+                                    "name": "index.js",
+                                    "value": 5751
+                                },
+                                {
+                                    "name": "terser.js",
+                                    "value": 1043291
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "package.json",
+                    "value": 3901
+                },
+                {
+                    "name": "src",
+                    "children": [
+                        {
+                            "name": "src",
+                            "value": 19973
+                        },
+                        {
+                            "name": "client",
+                            "children": [
+                                {
+                                    "name": "client",
+                                    "value": 19871
+                                },
+                                {
+                                    "name": "client.ts",
+                                    "value": 14437
+                                }
+                            ]
+                        },
+                        {
+                            "name": "client.env.ts",
+                            "value": 729
+                        },
+                        {
+                            "name": "client.overlay.ts",
+                            "value": 4262
+                        },
+                        {
+                            "name": "client.tsconfig.json",
+                            "value": 239
+                        }
+                    ]
+                },
+                {
+                    "name": "types",
+                    "children": [
+                        {
+                            "name": "types",
+                            "value": 58610
+                        },
+                        {
+                            "name": "alias.d.ts",
+                            "value": 2301
+                        },
+                        {
+                            "name": "anymatch.d.ts",
+                            "value": 214
+                        },
+                        {
+                            "name": "chokidar.d.ts",
+                            "value": 7690
+                        },
+                        {
+                            "name": "commonjs.d.ts",
+                            "value": 8663
+                        },
+                        {
+                            "name": "connect.d.ts",
+                            "value": 3334
+                        },
+                        {
+                            "name": "customEvent.d.ts",
+                            "value": 404
+                        },
+                        {
+                            "name": "dynamicImportVars.d.ts",
+                            "value": 546
+                        },
+                        {
+                            "name": "hmrPayload.d.ts",
+                            "value": 904
+                        },
+                        {
+                            "name": "hot.d.ts",
+                            "value": 607
+                        },
+                        {
+                            "name": "http-proxy.d.ts",
+                            "value": 7973
+                        },
+                        {
+                            "name": "importMeta.d.ts",
+                            "value": 1112
+                        },
+                        {
+                            "name": "package.json",
+                            "value": 79
+                        },
+                        {
+                            "name": "shims.d.ts",
+                            "value": 2036
+                        },
+                        {
+                            "name": "terser.d.ts",
+                            "value": 5733
+                        },
+                        {
+                            "name": "ws.d.ts",
+                            "value": 16436
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "vue",
+            "children": [
+                {
+                    "name": "vue",
+                    "value": 2531671
+                },
+                {
+                    "name": "LICENSE",
+                    "value": 1091
+                },
+                {
+                    "name": "README.md",
+                    "value": 4105
+                },
+                {
+                    "name": "compiler-sfc",
+                    "children": [
+                        {
+                            "name": "compiler-sfc",
+                            "value": 391
+                        },
+                        {
+                            "name": "index.d.ts",
+                            "value": 34
+                        },
+                        {
+                            "name": "index.js",
+                            "value": 46
+                        },
+                        {
+                            "name": "index.mjs",
+                            "value": 33
+                        },
+                        {
+                            "name": "package.json",
+                            "value": 74
+                        }
+                    ]
+                },
+                {
+                    "name": "dist",
+                    "children": [
+                        {
+                            "name": "dist",
+                            "value": 2519791
+                        },
+                        {
+                            "name": "vue.cjs.js",
+                            "value": 2725
+                        },
+                        {
+                            "name": "vue.cjs.prod.js",
+                            "value": 2147
+                        },
+                        {
+                            "name": "vue.d.ts",
+                            "value": 270
+                        },
+                        {
+                            "name": "vue.esm-browser.js",
+                            "value": 606230
+                        },
+                        {
+                            "name": "vue.esm-browser.prod.js",
+                            "value": 130931
+                        },
+                        {
+                            "name": "vue.esm-bundler.js",
+                            "value": 2629
+                        },
+                        {
+                            "name": "vue.global.js",
+                            "value": 636006
+                        },
+                        {
+                            "name": "vue.global.prod.js",
+                            "value": 127923
+                        },
+                        {
+                            "name": "vue.runtime.esm-browser.js",
+                            "value": 408572
+                        },
+                        {
+                            "name": "vue.runtime.esm-browser.prod.js",
+                            "value": 84424
+                        },
+                        {
+                            "name": "vue.runtime.esm-bundler.js",
+                            "value": 611
+                        },
+                        {
+                            "name": "vue.runtime.global.js",
+                            "value": 433029
+                        },
+                        {
+                            "name": "vue.runtime.global.prod.js",
+                            "value": 83784
+                        }
+                    ]
+                },
+                {
+                    "name": "index.js",
+                    "value": 171
+                },
+                {
+                    "name": "index.mjs",
+                    "value": 26
+                },
+                {
+                    "name": "macros-global.d.ts",
+                    "value": 414
+                },
+                {
+                    "name": "macros.d.ts",
+                    "value": 2909
+                },
+                {
+                    "name": "package.json",
+                    "value": 1841
+                },
+                {
+                    "name": "ref-macros.d.ts",
+                    "value": 90
+                },
+                {
+                    "name": "server-renderer",
+                    "children": [
+                        {
+                            "name": "server-renderer",
+                            "value": 400
+                        },
+                        {
+                            "name": "index.d.ts",
+                            "value": 37
+                        },
+                        {
+                            "name": "index.js",
+                            "value": 49
+                        },
+                        {
+                            "name": "index.mjs",
+                            "value": 36
+                        },
+                        {
+                            "name": "package.json",
+                            "value": 74
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
