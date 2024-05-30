@@ -14,9 +14,7 @@ export const handler: Handler = async (event, context) => {
     1: "/data/flareHierarchy.json",
     2: "/data/vueHierarchy.json"
   }
-  console.log(process.env.URL + files[file])
   const response = await fetch(process.env.URL + files[file])
-  console.log(response)
   const data = await response.json()
 
   const width = 800;
@@ -24,6 +22,7 @@ export const handler: Handler = async (event, context) => {
 
 
   const body = d3.select(document).select("body");
+  body.selectAll("*").remove();
   const svg = body.append("svg");
     svg.attr("width", width).attr("height", height);
 
