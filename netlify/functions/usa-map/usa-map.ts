@@ -59,6 +59,7 @@ export const handler: Handler = async (event, context) => {
 
 
   let body = d3.select(document).select("body");
+  body.selectAll("*").remove();
   let svg = body.append("svg")
     .attr("width", width)
     .attr("height", height);
